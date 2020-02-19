@@ -1,8 +1,13 @@
 body {
-    color: #FF00DD;
-    text-shadow: #00DDFF 0 0 25px;
+    color: lime;
+    text-shadow: lime 0 0 25px;
     overflow: hidden;
 }
+
+.sndline {
+    background-color: rgba(0, 255, 0, 0.3)
+}
+
 .bg {
     background: radial-gradient(rgb(0, 122, 0), black);
     position: fixed;
